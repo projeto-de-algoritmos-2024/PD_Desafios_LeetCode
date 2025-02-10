@@ -1,0 +1,40 @@
+#include <vector>
+#include <unordered_map>
+
+using namespace std;
+
+/**
+ * Definition for a binary tree node.
+ */
+
+
+class Solution {
+public:
+    unordered_map<int, vector<TreeNode*>> memo; // Memoization map
+
+    vector<TreeNode*> allPossibleFBT(int n) {
+        if (n % 2 == 0) return {}; // Árvores completas só podem ter um número ímpar de nós
+        if (n == 1) return {new TreeNode(0)}; // Caso base: uma árvore com um único nó
+        
+        if (memo.count(n)) return memo[n]; // Retorna caso já tenha sido computado
+        
+        vector<TreeNode*> result;
+        
+        // Tenta dividir os nós entre os filhos esquerdo e direito
+        for (int leftNodes = 1; leftNodes < n; leftNodes += 2) {
+            int rightNodes = n - 1 - leftNodes; // Subtrai o nó raiz e os nós da esquerda
+            
+            vector<TreeNode*> leftTrees = allPossibleFBT(leftNodes);
+            vector<TreeNode*> rightTrees = allPossibleFBT(rightNodes);
+            
+            // Constrói as árvores combinando os filhos esquerdo e direito
+            for (TreeNode* left : leftTrees) {
+                for (TreeNode* right : rightTrees) {
+                    result.push_back(new TreeNode(0, left, right));
+                }
+            }
+        }
+        
+        return memo[n] = result; // Armazena no cache antes de retornar
+    }
+};
