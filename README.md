@@ -23,7 +23,7 @@ Este repositório contém a solução de desafios de Programação Dinâmica do 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="img/1255.jpeg" alt="Resultado da submissão do desafio 1255">
+  <img src="img/1255.png" alt="Resultado da submissão do desafio 1255">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Este repositório contém a solução de desafios de Programação Dinâmica do 
 </p>
 
 <p align="center">
-  <img src="img/894.jpeg" alt="Resultado da submissão do desafio 894">
+  <img src="img/894.png" alt="Resultado da submissão do desafio 894">
 </p>
 
 <p align="center">
