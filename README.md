@@ -9,25 +9,25 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de desafios de Programação Dinâmica do juiz online LeetCode. Foram resolvidas as questões difíceis de números **xxx** e **yyy**, e as questões de dificuldade média de número **zzz** e **aaa**.
+Este repositório contém a solução de desafios de Programação Dinâmica do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1255** e **yyy**, e as questões de dificuldade média de número **894** e **aaa**.
 
 **Tecnologias Utilizadas**: C e Python
 
 ### Desafios Solucionados
 | Código | Desafio                                                                                                      | Dificuldade |
 |--------|--------------------------------------------------------------------------------------------------------------|-------------|
-| xxx    | [name](link) | Difícil     |
+| 1255    | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | Difícil     |
 | yyy    | [name](link) | Difícil     |
-| zzz    | [name](link) | Média     |
+| 894    | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | Média     |
 | aaa    | [name](link) | Média     |
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="img/xxx.jpeg" alt="Resultado da submissão do desafio xxx">
+  <img src="img/1255.jpeg" alt="Resultado da submissão do desafio 1255">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio xxx.
+  Resultado da submissão da solução para o desafio 1255.
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@ Este repositório contém a solução de desafios de Programação Dinâmica do 
 </p>
 
 <p align="center">
-  <img src="img/zzz.jpeg" alt="Resultado da submissão do desafio zzz">
+  <img src="img/894.jpeg" alt="Resultado da submissão do desafio 894">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio zzz.
+  Resultado da submissão da solução para o desafio 894.
 </p>
 
 <p align="center">
@@ -69,5 +69,5 @@ Para testar cada desafio:
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Programação Dinâmica (xxx e zzz)](link) <br>
+[Entrega de Programação Dinâmica (1255 e 894)](link) <br>
 [Entrega de Programação Dinâmica (yyy e aaa)](link)
