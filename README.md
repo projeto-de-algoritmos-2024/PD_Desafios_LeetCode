@@ -61,4 +61,4 @@ Para complementar a explicação das soluções e facilitar o entendimento dos c
 
 ### 📹 Link para o Vídeo
 [Entrega de Programação Dinâmica (1255 e 894)](link) <br>
-[Entrega de Programação Dinâmica (140)](link)
+[Entrega de Programação Dinâmica (140)](https://youtu.be/ACinGoYBpoY)
