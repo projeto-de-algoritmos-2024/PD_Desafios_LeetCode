@@ -9,17 +9,16 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de desafios de Programação Dinâmica do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1255** e **yyy**, e as questões de dificuldade média de número **894** e **aaa**.
+Este repositório contém a solução de desafios de Programação Dinâmica do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1255** e **140**, e a questão de dificuldade média de número **894**.
 
-**Tecnologias Utilizadas**: C e Python
+**Tecnologias Utilizadas**: C, C++ e Python
 
 ### Desafios Solucionados
 | Código | Desafio                                                                                                      | Dificuldade |
 |--------|--------------------------------------------------------------------------------------------------------------|-------------|
 | 1255    | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | Difícil     |
-| yyy    | [name](link) | Difícil     |
+| 140    | [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/) | Difícil     |
 | 894    | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | Média     |
-| aaa    | [name](link) | Média     |
 
 ## 📸 Screenshots
 <p align="center">
@@ -31,11 +30,11 @@ Este repositório contém a solução de desafios de Programação Dinâmica do 
 </p>
 
 <p align="center">
-  <img src="img/yyy.jpeg" alt="Resultado da submissão do desafio yyy">
+  <img src="img/140.jpeg" alt="Resultado da submissão do desafio 140">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio yyy.
+  Resultado da submissão da solução para o desafio 140.
 </p>
 
 <p align="center">
@@ -44,14 +43,6 @@ Este repositório contém a solução de desafios de Programação Dinâmica do 
 
 <p align="center">
   Resultado da submissão da solução para o desafio 894.
-</p>
-
-<p align="center">
-  <img src="img/aaa.jpeg" alt="Resultado da submissão do desafio aaa">
-</p>
-
-<p align="center">
-  Resultado da submissão da solução para o desafio aaa.
 </p>
 
 
@@ -70,4 +61,4 @@ Para complementar a explicação das soluções e facilitar o entendimento dos c
 
 ### 📹 Link para o Vídeo
 [Entrega de Programação Dinâmica (1255 e 894)](link) <br>
-[Entrega de Programação Dinâmica (yyy e aaa)](link)
+[Entrega de Programação Dinâmica (140)](link)
