@@ -60,5 +60,5 @@ Para testar cada desafio:
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Programação Dinâmica (1255 e 894)](link) <br>
-[Entrega de Programação Dinâmica (140)](link)
+[Entrega de Programação Dinâmica (1255 e 894)](https://www.youtube.com/watch?v=CtyRybA%5C) <br>
+[Entrega de Programação Dinâmica (140)](https://www.youtube.com/watch?v=CASDAWKKkan)
